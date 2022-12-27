@@ -11,4 +11,5 @@ body{
 .texto{
     color: rgb(255, 145, 0);
     font-size: x-large;
+    font-weight: 700;
 }
