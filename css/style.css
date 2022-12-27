@@ -1,3 +1,11 @@
+body{
+    position: absolute;
+    left: 134.1px;
+    top: 99.5px;
+    width: 159.95px;
+    height: 93.16px;
+    background:  url(/imgs/Natal.jpg)  no-repeat;
+  }
 
 .texto{
     color: rgb(255, 30, 0);
